@@ -1,6 +1,6 @@
 {
   "name": "changelogen",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "description": "Generate Beautiful Changelogs using Conventional Commits",
   "repository": "barbapapazes/changelogen",
   "license": "MIT",
